@@ -1,4 +1,4 @@
-# Kiwi Slang words
+# Kiwi Slang Words
 a react application to translate common Kiwi slang phrases
 
 ## Contributors
